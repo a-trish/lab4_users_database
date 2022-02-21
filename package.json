@@ -1,0 +1,28 @@
+{
+  "name": "lab4_users_database",
+  "version": "1.0.0",
+  "description": "COMP3133 Lab Exercise 4",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-trish/lab4_users_database.git"
+  },
+  "keywords": [],
+  "author": "Trisha Conde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-trish/lab4_users_database/issues"
+  },
+  "homepage": "https://github.com/a-trish/lab4_users_database#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
